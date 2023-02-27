@@ -1,5 +1,8 @@
 # reminder_flutter
 
+
+<img src ="https://github.com/Mirzaazmath/flutter_reminder/blob/main/assets/Simulator%20Screen%20Recording%20-%20iPhone%20SE%20(3rd%20generation)%20-%202023-02-27%20at%2016.47.58.gif" height="400">
+
 A new Flutter project.
 
 ## Getting Started
